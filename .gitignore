@@ -1,0 +1,11 @@
+﻿.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+PROBLEM_STATEMENT.docx
+DATA_MODEL.md
+openapi.yaml
+sample_seed.py
+sample_data/
