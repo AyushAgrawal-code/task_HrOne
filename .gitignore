@@ -9,3 +9,7 @@ DATA_MODEL.md
 openapi.yaml
 sample_seed.py
 sample_data/
+
+verification/
+test_rules.py
+
